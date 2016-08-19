@@ -1,0 +1,1 @@
+gem 'schema_plus_indexes', github: 'myabc/schema_plus_indexes', branch: 'activerecord-5.0'
